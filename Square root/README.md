@@ -4,8 +4,8 @@ Given a number N, find the square root of that number.
 
 Sample Input
 
-25.0
+25.00
 
 Sample Output
 
-5.0
+5.00
