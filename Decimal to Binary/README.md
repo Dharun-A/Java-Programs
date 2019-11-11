@@ -8,5 +8,5 @@ Sample Input
 
 Sample Output
 
-101
+101\
 2
