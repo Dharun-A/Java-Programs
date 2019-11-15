@@ -28,5 +28,5 @@ Sample Input
 
 Sample Output
 
-Not Weird\
+Weird\
 Not Weird
